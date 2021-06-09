@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"rebueats.setting"},{"v":2,"unique":true,"key":{"siteKey":1},"name":"siteKey_1","ns":"rebueats.setting","background":true}],"uuid":"8d4983e9cd37477db0ca3b3214bbbfd1"}

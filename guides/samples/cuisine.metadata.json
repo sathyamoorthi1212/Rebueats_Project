@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"rebueats.cuisine"},{"v":2,"unique":true,"key":{"cuisineName":1},"name":"cuisineName_1","ns":"rebueats.cuisine","background":true}],"uuid":"7ca61b2622534d3f87f169a9034f4b77"}
