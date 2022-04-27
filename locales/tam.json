@@ -1,0 +1,18 @@
+{
+	"ADMIN_LOGGEDOUT": "de Admin logged out",
+	"ADMIN_UNIQUE_ERROR": "நிர்வாக மின்னஞ்சல் மற்றும் தொடர்பு எண் ஏற்கனவே உள்ளன",
+	"ADMIN_LOGIN_SUCCESS": "de Admin login success",
+	"ADMIN_INVALID_PASSWORD": "de Incorrect Admin Password",
+	"ADMIN_INVALID_USERNAME": "de Incorrect  Username",
+	"ADMIN_PASSWORD_RESET": "de Admin password reset successfully",
+	"ADMIN_PASSWORD_CHANGED": "de Admin password changed successfully",
+	"INVALID_ADMIN_KEY": "de Invalid Admin details",
+	"NAME_MUST_REQUIRED": "பெயர் வெறுமையாக இருக்க முடியாது",
+	"PASSWORD_REQUIRED": "PASSWORD_REQUIRED",
+	"EMAIL_REQUIRED": "EMAIL_REQUIRED",
+	"MOBILE_REQUIRED": "MOBILE_REQUIRED",
+	"ROLE_REQUIRED": "ROLE_REQUIRED",
+	"INVALID_DATA":"தவறான தரவு
+"
+
+}
